@@ -4,4 +4,5 @@
 <description>mobil deneme</description> 
 <author href="http://www.tayangu.com" email="iletisim@tayangu.com">mci</author> 
 <preference name="permissions" value="none"/>
+<access origin="*" />
 </widget>
