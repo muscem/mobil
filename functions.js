@@ -16,6 +16,7 @@ function getPage(page){
 	});
 }
 function openPageOnLoad(){
+	alert("Açılış");
 	getPage("http://www.tayangu.com/mobil/pages/index.html");
 }
 function changePage(page){
