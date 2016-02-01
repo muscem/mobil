@@ -11,6 +11,7 @@ function getPage(page){
 		}
 	})
 	.done(function( msg ) {
+		alert(msg);
 		$("body").html( msg );
 	});
 }
