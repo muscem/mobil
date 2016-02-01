@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.tayangu.cord.app" version="2013.01.29" versionCode="2013.01.29">
 <name>tayangu</name> 
-<description>
-mobil deneme
-</description> 
-<author href="http://www.tayangu.com" email="iletisim@tayangu.com">
-mci
-</author> 
-<icon src="tayangu_72.png" width="72" height="72" />
+<description>mobil deneme</description> 
+<author href="http://www.tayangu.com" email="iletisim@tayangu.com">mci</author> 
+<preference name="permissions" value="none"/>
 </widget>
