@@ -1,0 +1,145 @@
+/* Baslangiç - Gird kodlari */
+.grid-div{
+	height:150px;
+	float:left;
+	display:inherit;
+}
+.grid-div-1, .grid-div-2, .grid-div-3, .grid-div-4, .grid-div-5, .grid-div-6, .grid-div-7, .grid-div-8, .grid-div-9, .grid-div-10, .grid-div-11, .grid-div-12, .grid-div-13, .grid-div-14, .grid-div-15, .grid-div-16, .grid-div-17, .grid-div-18, .grid-div-19, .grid-div-20, .grid-div-21, .grid-div-22, .grid-div-23, .grid-div-24, .grid-div-25, .grid-div-26, .grid-div-27, .grid-div-28, .grid-div-29, .grid-div-30, .grid-div-31, .grid-div-32, .grid-div-33, .grid-div-34, .grid-div-35, .grid-div-36, .grid-div-37, .grid-div-38, .grid-div-39, .grid-div-40, .grid-div-41, .grid-div-42, .grid-div-43, .grid-div-44, .grid-div-45, .grid-div-46, .grid-div-47, .grid-div-48, .grid-div-49, .grid-div-50, .grid-div-51, .grid-div-52, .grid-div-53, .grid-div-54, .grid-div-55, .grid-div-56, .grid-div-57, .grid-div-58, .grid-div-59, .grid-div-60, .grid-div-61, .grid-div-62, .grid-div-63, .grid-div-64,  .grid-div-65, .grid-div-66, .grid-div-67, .grid-div-68, .grid-div-69, .grid-div-70, .grid-div-71, .grid-div-72, .grid-div-73, .grid-div-74, .grid-div-75, .grid-div-76, .grid-div-77, .grid-div-78, .grid-div-79, .grid-div-80, .grid-div-81, grid-div-82, .grid-div-83, .grid-div-84, .grid-div-85, .grid-div-86, .grid-div-87, .grid-div-88, .grid-div-89, .grid-div-90, .grid-div-91, .grid-div-92, .grid-div-93, .grid-div-94, .grid-div-95, .grid-div-96, .grid-div-97, .grid-div-98, .grid-div-99, .grid-div-100 {
+	float:left;
+}
+.grid-div-1{width:1%;}
+.grid-div-2{width:2%;}
+.grid-div-3{width:3%;}
+.grid-div-4{width:4%;}
+.grid-div-5{width:5%;}
+.grid-div-6{width:6%;}
+.grid-div-7{width:7%;}
+.grid-div-8{width:8%;}
+.grid-div-9{width:9%;}
+.grid-div-10{width:10%;}
+.grid-div-11{width:11%;}
+.grid-div-12{width:12%;}
+.grid-div-13{width:13%;}
+.grid-div-14{width:14%;}
+.grid-div-15{width:15%;}
+.grid-div-16{width:16%;}
+.grid-div-17{width:17%;}
+.grid-div-18{width:18%;}
+.grid-div-19{width:19%;}
+.grid-div-20{width:20%;}
+.grid-div-21{width:21%;}
+.grid-div-22{width:22%;}
+.grid-div-23{width:23%;}
+.grid-div-24{width:24%;}
+.grid-div-25{width:25%;}
+.grid-div-26{width:26%;}
+.grid-div-27{width:27%;}
+.grid-div-28{width:28%;}
+.grid-div-29{width:29%;}
+.grid-div-30{width:30%;}
+.grid-div-31{width:31%;}
+.grid-div-32{width:32%;}
+.grid-div-33{width:33%;}
+.grid-div-34{width:34%;}
+.grid-div-35{width:35%;}
+.grid-div-36{width:36%;}
+.grid-div-37{width:37%;}
+.grid-div-38{width:38%;}
+.grid-div-39{width:39%;}
+.grid-div-40{width:40%;}
+.grid-div-41{width:41%;}
+.grid-div-42{width:42%;}
+.grid-div-43{width:43%;}
+.grid-div-44{width:44%;}
+.grid-div-45{width:45%;}
+.grid-div-46{width:46%;}
+.grid-div-47{width:47%;}
+.grid-div-48{width:48%;}
+.grid-div-49{width:49%;}
+.grid-div-50{width:50%;}
+.grid-div-51{width:51%;}
+.grid-div-52{width:52%;}
+.grid-div-53{width:53%;}
+.grid-div-54{width:54%;}
+.grid-div-55{width:55%;}
+.grid-div-56{width:56%;}
+.grid-div-57{width:57%;}
+.grid-div-58{width:58%;}
+.grid-div-59{width:59%;}
+.grid-div-60{width:60%;}
+.grid-div-61{width:61%;}
+.grid-div-62{width:62%;}
+.grid-div-63{width:63%;}
+.grid-div-64{width:64%;}
+.grid-div-65{width:65%;}
+.grid-div-66{width:66%;}
+.grid-div-67{width:67%;}
+.grid-div-68{width:68%;}
+.grid-div-69{width:69%;}
+.grid-div-70{width:70%;}
+.grid-div-71{width:71%;}
+.grid-div-72{width:72%;}
+.grid-div-73{width:73%;}
+.grid-div-74{width:74%;}
+.grid-div-75{width:75%;}
+.grid-div-76{width:76%;}
+.grid-div-77{width:77%;}
+.grid-div-78{width:78%;}
+.grid-div-79{width:79%;}
+.grid-div-80{width:80%;}
+.grid-div-81{width:81%;}
+.grid-div-82{width:82%;}
+.grid-div-83{width:83%;}
+.grid-div-84{width:84%;}
+.grid-div-85{width:85%;}
+.grid-div-86{width:86%;}
+.grid-div-87{width:87%;}
+.grid-div-88{width:88%;}
+.grid-div-89{width:89%;}
+.grid-div-90{width:90%;}
+.grid-div-91{width:91%;}
+.grid-div-92{width:92%;}
+.grid-div-93{width:93%;}
+.grid-div-94{width:94%;}
+.grid-div-95{width:95%;}
+.grid-div-96{width:96%;}
+.grid-div-97{width:97%;}
+.grid-div-98{width:98%;}
+.grid-div-99{width:99%;}
+.grid-div-100{width:100%;}
+
+
+@media screen and (max-width:768px) {
+.grid-div{
+	height:200px;
+	float:none;
+	width:100%
+}
+.grid-div-1, .grid-div-2, .grid-div-3, .grid-div-4, .grid-div-5, .grid-div-6, .grid-div-7, .grid-div-8, .grid-div-9, .grid-div-10, .grid-div-11, .grid-div-12, .grid-div-13, .grid-div-14, .grid-div-15, .grid-div-16, .grid-div-17, .grid-div-18, .grid-div-19, .grid-div-20, .grid-div-21, .grid-div-22, .grid-div-23, .grid-div-24, .grid-div-25, .grid-div-26, .grid-div-27, .grid-div-28, .grid-div-29, .grid-div-30, .grid-div-31, .grid-div-32, .grid-div-33, .grid-div-34, .grid-div-35, .grid-div-36, .grid-div-37, .grid-div-38, .grid-div-39, .grid-div-40, .grid-div-41, .grid-div-42, .grid-div-43, .grid-div-44, .grid-div-45, .grid-div-46, .grid-div-47, .grid-div-48, .grid-div-49, .grid-div-50, .grid-div-51, .grid-div-52, .grid-div-53, .grid-div-54, .grid-div-55, .grid-div-56, .grid-div-57, .grid-div-58, .grid-div-59, .grid-div-60, .grid-div-61, .grid-div-62, .grid-div-63, .grid-div-64,  .grid-div-65, .grid-div-66, .grid-div-67, .grid-div-68, .grid-div-69, .grid-div-70, .grid-div-71, .grid-div-72, .grid-div-73, .grid-div-74, .grid-div-75, .grid-div-76, .grid-div-77, .grid-div-78, .grid-div-79, .grid-div-80, .grid-div-81, grid-div-82, .grid-div-83, .grid-div-84, .grid-div-85, .grid-div-86, .grid-div-87, .grid-div-88, .grid-div-89, .grid-div-90, .grid-div-91, .grid-div-92, .grid-div-93, .grid-div-94, .grid-div-95, .grid-div-96, .grid-div-97, .grid-div-98, .grid-div-99, .grid-div-100 {
+	float:none;
+	width:100%
+}
+}
+/* Bitis - Gird kodlari */
+
+
+
+/* Baslangiç Gizle Göster sinifi */
+.hide{
+	display:none;
+}
+.show{
+	display:inherit;
+}
+.middle{
+	float:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+/* Bitis Gizle Göster sinifi */
