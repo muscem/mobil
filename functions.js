@@ -16,11 +16,13 @@ function getPage(page){
 	});
 }
 function openPageOnLoad(){
-	alert("Açılış");
-	getPage("http://www.tayangu.com/mobil/pages/index.html");
+	//alert("Açılış");
+	//getPage("http://www.tayangu.com/mobil/pages/index.html");
+	window.open("http://www.tayangu.com/mobil/pages/index.html");
 }
 function changePage(page){
 	getPage("http://www.tayangu.com/mobil/pages/"+page);
+	//window.open("http://www.tayangu.com/mobil/pages/"+page);
 }
 
 
