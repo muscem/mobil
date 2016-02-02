@@ -16,9 +16,9 @@ function getPage(page){
 	});
 }
 function openPageOnLoad(){
-	alert("Açılış");
+	//alert("Açılış");
 	//getPage("http://www.tayangu.com/mobil/pages/index.html");
-	window.open("http://www.tayangu.com/mobil/pages/index.html", '_system');
+	//window.open("http://www.tayangu.com/mobil/pages/index.html", '_system');
 }
 function changePage(page){
 	getPage("http://www.tayangu.com/mobil/pages/"+page);
